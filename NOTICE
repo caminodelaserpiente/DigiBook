@@ -1,0 +1,9 @@
+THE FOLLOWING SETS FORTH ATTRIBUTION NOTICES FOR THIRD PARTY SOFTWARE THAT MAY BE CONTAINED IN PORTIONS OF THE DIGIBOOK PRODUCT.
+
+---
+
+This software contains code derived from the Playwright project (https://github.com/microsoft/playwright),
+available under the Apache 2.0 license (https://github.com/microsoft/playwright/blob/main/LICENSE).
+
+This software contains code derived from the Puppeteer project (https://github.com/puppeteer/puppeteer),
+available under the Apache 2.0 license (https://github.com/puppeteer/puppeteer/blob/master/LICENSE).
