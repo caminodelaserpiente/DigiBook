@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "DIGIBOOK"
+date-released: 2024-08-01
+message: 'If you use this software, please cite it as below.'
+authors:
+  - name: "Daniel A.L."
+    website: "https://www.youtube.com/@caminodelaserpiente"
+    email: "caminodelaserpiente.py@gmail.com"
+    affiliation: "Caminodelaserpiente (蛇道)"
+abstract: "Scraping tool for collecting data from digital platforms."
+license: "GPL-3.0-or-later"
+license-url: "https://github.com/caminodelaserpiente/DigiBook/blob/main/LICENSE"
+repository-code: "https://github.com/caminodelaserpiente/DigiBook"
+url: "https://github.com/caminodelaserpiente"
+type: software
+keywords:
+  - python
+  - method
+  - data collection
+  - digital platforms
+  - social listening
+  - free software
+  - social sciences research
